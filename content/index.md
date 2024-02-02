@@ -1,7 +1,4 @@
 ---
-title: Welcome to Quartz
-draft: "true"
+title: index
+publish: "true"
 ---
-
-This is a blank Quartz installation.
-n
