@@ -1,5 +1,4 @@
 ---
 title: "{{Title}}"
-published: "false"
+publish: "false"
 ---
-# {{Title}}
