@@ -31,9 +31,6 @@ One of the best ways to improve is by using LeetCode to learn to solve and think
 I have a list of 100 LeetCode challenges I want to finish by the end of this year. The list is on the link below. You can also use it to check my progress.
 
 [[100 LeetCode problems]]
-## Math
-Status: *todo*
-I have always liked math and understand its importance for software engineers. Therefore, I want to learn more about it and devote at least one hour daily to it. I have signed up for **Brilliant**, where I will try to improve my math skills.
 
 ## Conclusion
 
