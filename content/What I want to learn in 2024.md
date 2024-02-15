@@ -19,14 +19,12 @@ C++ is one of my focuses this year. There are many reasons I want to learn it, b
 
 I am trying to find a way to learn things better, I tried to read and do some exercises, but that did not have a good effect. Now, I will try a different approach, which is making projects. By doing projects, I will need tools from the language that will lead me to search and learn more about the language, everything while I do something fun. Some projects include:
 
-- [x] 1. An API in C++ for authentication using a database.
+- [x] [[A simple API in C++.|1. An API in C++ for authentication using a database]]
 - [ ] 2. A game of checkers using C++.
 - [ ] 3. A docker container for a C++ project using CMake.
 - [ ] 4. A simple text editor.
 - [ ] 5. Create the most famous data structures in C++.
 
-You can check out what my efforts led to by reading the articles below:
-1. [[A simple API in C++]]
 ## LeetCode
 Status: *doing*
 One of the best ways to improve is by using LeetCode to learn to solve and think about problems from different perspectives. I use it as an excellent exercise for my mind.
