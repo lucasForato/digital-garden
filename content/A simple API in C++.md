@@ -41,8 +41,7 @@ In the beginning, I read more and wrote less, the idea was getting familiar with
 
 ## The code
 
-If you are curious like me, you are probably wondering how the code turned out to be, for people like us, I wrote a second part to this article which is focused on the more technical part, explaining how I solved some simple project, you can check it below:
-[[A simple API in C++ pt. 2]]
+If you are curious like me, you are probably wondering how the code turned out to be. If you want to check that out, [click here](https://github.com/lucasForato/learn-cpp/tree/main/auth) to be taken to the repository on Github.
 
 ## Conclusion
 
